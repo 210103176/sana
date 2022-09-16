@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BMW X5</title>
+</head>
+<style>
+  img {
+    width: 330px;
+    height: 220px;
+  }
+</style>
+<body>
+<table>
+  <tr>
+    <td><img src="https://cdn.motor1.com/images/mgl/3W13BL/s3/2023-bmw-x5-facelift-rendering.webp"></td>
+    <td><img src="https://i.ytimg.com/vi/TlBtdmIKHVY/maxresdefault.jpg"></td>
+    <td><img
+            src="https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X5/6940/1653892238516/rear-left-view-121.jpg?imwidth=420&impolicy=resize">
+    </td>
+  </tr>
+  <tr>
+    <td><img
+            src="https://di-uploads-pod16.dealerinspire.com/bmwofbloomington/uploads/2019/11/2020-BMW-X5-Rear-Entertainment.jpg">
+    </td>
+    <td><img
+            src="https://mediacloud.carbuyer.co.uk/image/private/s--Iq6JwjMC--/v1624286803/carbuyer/2021/06/BMW%20X5%20SUV-5.jpg">
+    </td>
+    <td><img
+            src="https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x5/overview/mobile/BMW-MY23-X5-Overview-Design-01-Mobile.jpg">
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td width="330px">Brand</td>
+    <td>BMW</td>
+  </tr>
+  <tr>
+    <td>Model</td>
+    <td>X5</td>
+  </tr>
+  <tr>
+    <td>Year</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td>Milleage</td>
+    <td>30 000</td>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>100 000 $</td>
+  </tr>
+
+</table>
+</body>
+</html>
