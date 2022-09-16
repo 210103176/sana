@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Main page</title>
+</head>
+<style>
+  table{
+    margin: 10px;
+    border: 1px solid black;
+  }
+  td{
+    border: 1px solid black;
+  }
+</style>
+<body>
+<table align="center" cellspacing="0px">
+  <tr>
+    <td colspan="2"><h1>BMW X5</h1></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.motor1.com/images/mgl/3W13BL/s3/2023-bmw-x5-facelift-rendering.webp" width="400"><br><a
+            href="file:///C:/Users/Dau/WebstormProjects/untitled/LAB1.2.html">More items...</a></td>
+    <td>The BMW X5 is a mid-sized luxury SUV produced by BMW.[1] The X5 made its debut<br>
+      in 1999 as the E53 model. It was BMW's first SUV. At launch, it featured all-wheel<br>
+      drive and was available with either a manual or automatic gearbox. The second generation<br>
+      was launched in 2006, and was known internally as the E70. The E70 featured the torque-split<br>
+      capable xDrive all - wheel drive system mated to an automatic gearbox. In 2009, the X5 M perform<br>
+      ance variant was released as a 2010 model.</td>
+  </tr>
+</table>
+<table align="center" style="border: 1px solid black" cellspacing="0px">
+  <tr>
+    <td colspan="2"><h1>Toyota Camry 50</h1></td>
+  </tr>
+  <tr>
+    <td><img src="https://kolesa-uploads.ru/-/9526a882-8bca-46f7-815e-aa736c8093c9/toyota-camry.jpg" width="400"></td>
+    <td>The Toyota Camry (XV50) is a mid-size car that has been produced by Toyota from August 2011 to<br>
+      March 2019. Replacing the XV40 series, the XV50 represents the seventh generation of the Toyota<br>
+      Camry in all markets outside Japan, which<br>
+      follows a different generational lineage.</td>
+  </tr>
+</table>
+
+</body>
+</html>
